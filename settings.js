@@ -10,14 +10,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
+global.ownernomer = "9230014077187"
+global.ownername = "Usman Bhatti"
 global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
-global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
+global.ownernumber = '923014077187'  //creator number
+global.ownername = 'Usman Bhatti' //owner name
 global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
@@ -35,7 +35,7 @@ global.link = 'https://whatsapp.com/channel/0029Va9Ufzi8kyyEnEHvOm1h'
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
